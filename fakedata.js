@@ -1,7 +1,7 @@
 export const bollywood = [
     {
       id: 1,
-      image: "media/sal.jpg",
+      image: "images/bollyImg.jpg",
       desc: "Bajrangi Bhaijaan: The Kabir Khan directorial is Salman Khan's highest grossing film to date and it earned 320.34 Crores in India.",
       date: "12/12/2019",
       category: "bollywood",
